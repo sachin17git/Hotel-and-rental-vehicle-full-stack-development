@@ -36,4 +36,4 @@ Each jframe consists of buttons and those buttons have an event described. They 
 For each update operation performed in the front end, the same is reflected to the back end and if any errors are occurred, then they are shown using a pop up menu. 
 The mini-project is included a trigger and a stored procedure in the back end and they are executed automatically when certain operations are performed in the front end. 
 
- 
+  
