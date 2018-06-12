@@ -1,7 +1,7 @@
 In the files available, javaProject.rar contains whole project i.e the front end of the database.
 
-And the BackEndData.sql file contains all the tables, views, structures, data, connections and all the data that you will needing to create a database
-for this project.
+And the BackEndData.sql file contains all the tables, views, structures, data, connections and all the data
+that you will needing to create a database for this project.
 
 In the backend data there is a structure called access which contains the login credentials of hotel.
 
