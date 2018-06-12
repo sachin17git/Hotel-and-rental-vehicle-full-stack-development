@@ -37,7 +37,7 @@ For each update operation performed in the front end, the same is reflected to t
 This project is included a trigger and a stored procedure in the back end and they are executed automatically when certain operations are performed in the front end. 
 
   
-![software hardware requirement](https://user-images.githubusercontent.com/40026126/41318972-dc60358c-6eb7-11e8-818d-f36f036ebc17.PNG)
+
 
 
   
