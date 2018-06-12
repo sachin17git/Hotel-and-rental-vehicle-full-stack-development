@@ -6,3 +6,6 @@ that you will needing to create a database for this project.
 In the backend data there is a structure called access which contains the login credentials of hotel.
 
 Similarly structure called access1 contains login credentials of vehicle.
+
+But for the complete information and overview regarding the backend database refer the Files- (ER diagrams & Schema diagram)
+which i have uploaded in the repository.
